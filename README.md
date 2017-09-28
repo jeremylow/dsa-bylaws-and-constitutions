@@ -35,6 +35,10 @@ These are not meant to be official documents, just reference materials.
 
 * [Cleveland](https://github.com/jeremylow/dsa-bylaws-and-constitutions/blob/master/bylaws/oh-cleveland.md)
 
+#### Oregon
+
+* [Eugene](https://github.com/jeremylow/dsa-bylaws-and-constitutions/blob/master/bylaws/or-eugene.md)
+
 #### Pennsylvania
 
 * [Philadelphia](https://github.com/jeremylow/dsa-bylaws-and-constitutions/blob/master/bylaws/pa-philadelphia.md)
@@ -47,6 +51,7 @@ These are not meant to be official documents, just reference materials.
 #### Non-states
 
 * [District of Columbia](https://github.com/jeremylow/dsa-bylaws-and-constitutions/blob/master/bylaws/zz-district-of-columbia.md)
+* [National Sample Form Bylaws](https://github.com/jeremylow/dsa-bylaws-and-constitutions/blob/master/bylaws/zz-national-sample.md)
 
 
 ## Constitutions
