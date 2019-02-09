@@ -1,5 +1,6 @@
 # BYLAWS
 
+January 20, 2019
 
 ## Item I MEETINGS OF TCDSA
 
