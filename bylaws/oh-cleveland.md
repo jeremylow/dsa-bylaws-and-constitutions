@@ -1,4 +1,4 @@
-Cleveland Democratic Socialists of America Bylaws
+# Cleveland Democratic Socialists of America Bylaws
 
 
 ## 1. PURPOSE
