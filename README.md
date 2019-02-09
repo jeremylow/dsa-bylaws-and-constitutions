@@ -60,6 +60,7 @@ These are not meant to be official documents, just reference materials.
 
 * [District of Columbia](https://github.com/jeremylow/dsa-bylaws-and-constitutions/blob/master/bylaws/zz-district-of-columbia.md)
 * [National Sample Form Bylaws](https://github.com/jeremylow/dsa-bylaws-and-constitutions/blob/master/bylaws/zz-national-sample.md)
+* [LSC](https://github.com/jeremylow/dsa-bylaws-and-constitutions/blob/master/bylaws/zz-lsc.md)
 
 
 ## Constitutions
