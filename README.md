@@ -31,6 +31,10 @@ These are not meant to be official documents, just reference materials.
 
 * [Lincoln](https://github.com/jeremylow/dsa-bylaws-and-constitutions/blob/master/bylaws/ne-lincoln.md)
 
+#### New Jersey
+
+* [South New Jersey](https://github.com/jeremylow/dsa-bylaws-and-constitutions/blob/master/bylaws/nj-southnj.md)
+
 #### Ohio
 
 * [Cleveland](https://github.com/jeremylow/dsa-bylaws-and-constitutions/blob/master/bylaws/oh-cleveland.md)
